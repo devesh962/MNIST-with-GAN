@@ -9,3 +9,5 @@ Code for generating MNIST_Fashion Dataset:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15K25Epw1nZ2-yUBJTSVzecewqZ-vNsyu)
 
 Run the code for 5-10 epochs to check the output then run the code for 1000 epochs to get the exact same dataset which we want to generate.
+
+Run the .py file on Google Colab or Jupyter Notebook.
